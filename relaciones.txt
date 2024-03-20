@@ -1,0 +1,5 @@
+1.-Usuarios - Transacciones (como emisor): Un usuario puede tener múltiples transacciones como emisor, pero una transacción específica solo puede ser emitida por un usuario. Por lo tanto, la relación es de uno a muchos desde Usuarios a Transacciones.
+
+2.-Usuarios - Transacciones (como receptor): Un usuario puede tener múltiples transacciones como receptor, pero una transacción específica solo puede ser recibida por un usuario. Por lo tanto, la relación es de uno a muchos desde Usuarios a Transacciones.
+
+3.-Transacciones - Monedas: Cada transacción está asociada a una moneda específica, pero una moneda puede estar asociada a múltiples transacciones. Por lo tanto, la relación es de uno a muchos desde Monedas a Transacciones.
