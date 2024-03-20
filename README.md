@@ -9,7 +9,8 @@ gestionar un sistema de una Wallet la cual permitirá a sus usuarios
 almacenar y gestionar sus fondos, realizar transacciones y ver el
 historial de transacciones.</p>
 
-<p>Nuestro objetivo 📋
+<h2>Nuestro objetivo 📋 </h2>
+<p>
 El objetivo de esta evaluación es diseñar el modelo conceptual, definir las
 relaciones entre las entidades de una wallet y crear la base de datos para
 almacenar la información que sea necesaria.
